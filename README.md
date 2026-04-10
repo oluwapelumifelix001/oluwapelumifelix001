@@ -1,4 +1,4 @@
-👋 Hi, I'm Felix Oluwapelumi (Flexy)
+## 👋 Hi, I'm Felix Oluwapelumi (Flexy)
 
 🚀 Full-Stack Developer crafting scalable and high-performance web applications  
 ⚛️ React • ▲ Next.js • 🟢 Node.js • 🔷 TypeScript • 🔺 GraphQL  
@@ -8,6 +8,7 @@
 🎓 SQI College of ICT  
 
 🎓 Ladoke Akintola University of Technology
+
 ---
 
 ## 📊 GitHub Stats
@@ -16,7 +17,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=oluwapelumifelix001&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwapelumifelix001&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwapelumifelix001&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
