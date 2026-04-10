@@ -1,16 +1,39 @@
-# React + Vite
+👋 Hi, I'm Felix Oluwapelumi (Flexy)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Full-Stack Developer crafting scalable and high-performance web applications  
+⚛️ React • ▲ Next.js • 🟢 Node.js • 🔷 TypeScript • 🔺 GraphQL  
 
-Currently, two official plugins are available:
+🏗️ Focused on clean architecture, intuitive UI/UX, and real-world impact 🌍  
+🎓 SQI College of ICT  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📊 GitHub Stats
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwapelumifelix001&show_icons=true&theme=tokyonight)
 
-## Expanding the ESLint configuration
+![GitHub Streak](https://streak-stats.demolab.com?user=oluwapelumifelix001&theme=tokyonight)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwapelumifelix001&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React  
+- ▲ Next.js  
+- 🟢 Node.js  
+- 🔷 TypeScript  
+- 🔺 GraphQL  
+- 🌐 HTML • 🎨 CSS • 💡 JavaScript  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/felix-oluwapelumi-abb539367  
+- 🌍 Portfolio: https://flexydev.netlify.app  
+
+---
+
+⭐️ *Always building, always learning...*
