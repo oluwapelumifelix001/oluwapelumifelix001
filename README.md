@@ -5,7 +5,7 @@
 
 🏗️ Focused on clean architecture, intuitive UI/UX, and real-world impact 🌍  
 🎓 SQI College of ICT  
-
+🎓 Ladoke Akintola University of Technology
 ---
 
 ## 📊 GitHub Stats
